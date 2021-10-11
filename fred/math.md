@@ -4,4 +4,4 @@ this is a test
 
 ## some math
 
-$\sin^x+\cos^2x=1$
+$\sin^2x+\cos^2x=1$
