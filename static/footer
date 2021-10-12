@@ -1,3 +1,4 @@
+<hline>
 <div id="footer">
-Blogged by blawg from <a href="{{ repo.name }}">{{ repo.html_url }}</a>
+Blogged by blawg from <a href="{{ repo.html_url }}">{{ repo.name }}</a>
 </div>
