@@ -1,0 +1,3 @@
+<div id="footer">
+Blogged by blawg from <a href="{{ repo.name }}">{{ repo.url }}</a>
+</div>
