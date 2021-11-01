@@ -1,4 +1,5 @@
 <hline>
 <div id="footer">
+testing line <br />
 Blogged by blawg from <a href="{{ repo.html_url }}">{{ repo.name }}</a>
 </div>
